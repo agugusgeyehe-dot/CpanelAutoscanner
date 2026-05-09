@@ -1,2 +1,2 @@
 # CpanelAutoscanner
-CpanelAutoScanner idk 
+A cool thing idk 
